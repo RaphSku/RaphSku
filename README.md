@@ -1,4 +1,4 @@
-I am interested in Statistics, Machine-, Deep- and Reinforcement Learning and Software Engineering.
+Interested in Cloud Native, Data Engineering, Machine- and Deep Learning.
 If you have interesting projects in that area, let me know, maybe we can collaborate!
 
 <!---
