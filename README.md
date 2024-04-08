@@ -6,7 +6,7 @@ Data Orchestration, Distributed Systems and Cloud Infrastructure, that's what I'
   </a>
 </details>
 
-https://raphsku.github.io/Homepage/
+https://raphsku.github.io/
 
 <!---
 RaphSku/RaphSku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
