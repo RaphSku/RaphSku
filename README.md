@@ -1,4 +1,4 @@
-Data Orchestration, Distributed Systems and Cloud Infrastructure, that's what I'm interested about. 
+Distributed Systems and Cloud Infrastructure, that's what I'm interested about. 
 
 <details>
   <a href="https://github.com/raphsku">
